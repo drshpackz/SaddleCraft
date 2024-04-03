@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "shpackz",
+  "version": "${version}",
+  "name": "arina",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/Visitor/untitled"
+  },
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
