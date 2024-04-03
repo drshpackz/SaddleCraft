@@ -19,7 +19,7 @@ The saddle can be crafted using a straightforward and intuitive recipe, employin
 - **Materials Needed**: Leather and Strings
 - **Pattern**:
   - Row 1: Leather, Leather, Leather
-  - Row 2: Empty, String, Empty
+  - Row 2: Leather, String, Leather
 
 Embrace the freedom to explore the vast landscapes of Minecraft on your trusty steed sooner than ever before. Whether you're a seasoned adventurer or a newcomer eager to traverse the expansive biomes, the Saddle Crafting Mod enhances your journey from the get-go.
 
